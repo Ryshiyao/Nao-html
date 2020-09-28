@@ -1,0 +1,42 @@
+
+
+body{
+    font-family:"Times New Roman";
+    background-color: yellow;
+    font-size: 20px;
+}
+
+header h1{
+    font:"Calibri";
+    font-size: 40px;
+    color:blue;
+    text-align: center;
+}
+section{
+    border-width: 4px;
+    border-style:ridge;
+    background-color: orange;
+}
+
+header{
+    image-
+    border-style: groove;
+    background-color: tomato;
+}
+nav{
+    border-width: 4px;
+    border-style: outset;
+    background-color: green;
+    
+}
+footer{
+    border-width: 6px;
+    border-style: solid;
+    background-color: royalblue;
+}
+
+nav li{
+    list-style:none;
+    margin-left:0;
+    padding-left:0
+}
